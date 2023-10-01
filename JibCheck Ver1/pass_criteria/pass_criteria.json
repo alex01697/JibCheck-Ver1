@@ -1,0 +1,16 @@
+{
+    "MaxCriteriaData": [
+        {
+            "criteriaName": "MAX-criteria",
+            "condition": "greaterThan",
+            "value": 10.0
+        }
+    ],
+    "MinCriteriaData": [
+        {
+            "criteriaName": "MIN-criteria",
+            "condition": "lessThanOrEqual",
+            "value": 0.850
+        }
+    ]
+}
